@@ -86,8 +86,4 @@ extern class Sprite extends DisplayObjectContainer
     static function fromImage(imageId:String):Sprite;
 }
 
-// constructor
-//PIXI.Sprite.constructor = PIXI.Sprite;
-//PIXI.Sprite.prototype = Object.create( PIXI.DisplayObjectContainer.prototype );
-
 

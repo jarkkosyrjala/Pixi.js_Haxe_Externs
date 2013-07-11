@@ -63,7 +63,7 @@ extern class DisplayObjectContainer extends DisplayObject
     /**
      * @private
      */
-    function updateTransform():Void;
+    private function updateTransform():Void;
 
 }
 // constructor
